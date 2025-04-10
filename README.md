@@ -18,6 +18,8 @@ conda activate myenv
 
 pip install -r requirements.txt
 
+pip freeze
+
 streamlit run chatpdf.py
 
 

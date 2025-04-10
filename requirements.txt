@@ -1,0 +1,17 @@
+streamlit==1.19.0
+langchain
+langchain-community
+langchain-google-genai
+python-dotenv
+PyPDF2
+faiss-cpu
+nltk==3.9.1
+unstructured
+protobuf==3.20.3
+grpcio-status==1.48.2
+grpcio==1.48.2
+altair
+langchain-google-genai==2.1.2
+google-ai-generativelanguage==0.6.16
+
+
