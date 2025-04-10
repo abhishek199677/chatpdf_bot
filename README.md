@@ -1,4 +1,4 @@
-Visit this webapp [ChatPDF]() for trial.
+
 
 # Features
 
@@ -25,5 +25,6 @@ streamlit run chatpdf.py
 
 # App:
 
- http://localhost:8501/
+https://chatpdfbot.streamlit.app/
+
 
